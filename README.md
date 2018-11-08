@@ -37,4 +37,4 @@ Finally, we can save the current state of the player by clicking on menu then sa
 
 --------------------------------------------------------------------------
 
-This project was made using Netbeans. To open just download this folder and import it using Netbeans. No other actions are necessary.
+This project was made using Netbeans. To open it just download this folder and import it using Netbeans. No other actions are necessary.
