@@ -1,0 +1,5 @@
+dj2.core
+dj2.gui
+dj2.persistence
+dj2.tests
+exceptions
